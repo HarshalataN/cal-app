@@ -1,0 +1,8 @@
+.btn-cal{
+    width:50px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    line-height: 58px;
+    
+}
