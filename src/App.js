@@ -7,6 +7,7 @@ function App() {
     <div>
       <Cal/>
       <h1>hello 1</h1>
+      <p>main - 01</p>
       </div>  
   );
 }
